@@ -62,7 +62,7 @@ steam
 
 ### Terminal
 
-1. [ntop](https://github.com/htop-dev/htop)
+1. [htop](https://github.com/htop-dev/htop)
 2. [pipes.sh](https://github.com/pipeseroni/pipes.sh)
 3. Audio Visualizer [Cava](https://github.com/pipeseroni/pipes.sh)
 4. Matrix [cmartrix](https://github.com/abishekvashok/cmatrix)
