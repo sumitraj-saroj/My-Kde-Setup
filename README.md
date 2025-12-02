@@ -34,7 +34,7 @@ A mini dotfiles repository that will remind me my KDE Plasma workflow.
   - Color Picker
   - Default System Tray
   - Digital Clock
-- ##Desktop Effects (System Settings -> Window Management -> Desktop Effects)
+- Desktop Effects (System Settings -> Window Management -> Desktop Effects)
 - [Better Blur](https://github.com/taj-ny/kwin-effects-forceblur)
   Here's a list of apps I added to the classes inside Better Blur configs:
 
