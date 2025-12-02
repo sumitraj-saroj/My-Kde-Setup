@@ -1,0 +1,14 @@
+Zen	app.zen_browser.zen	1.17.11b	stable	system
+Brave	com.brave.Browser	1.84.141	stable	system
+Todoist	com.todoist.Todoist	9.24.0	stable	system
+Clapgrep	de.leopoldluley.Clapgrep	25.10	stable	system
+Zed	dev.zed.Zed	v0.214.6	stable	system
+Warehouse	io.github.flattool.Warehouse	2.1.0	stable	system
+Gear Lever	it.mijorus.gearlever	4.0.0	stable	system
+Obsidian	md.obsidian.Obsidian	1.10.6	stable	system
+Dev Toolbox	me.iepure.devtoolbox	1.3.0	stable	system
+KleverNotes	org.kde.klevernotes	1.2.5	stable	system
+LocalSend	org.localsend.localsend_app	1.17.0	stable	system
+qBittorrent	org.qbittorrent.qBittorrent	5.1.4	stable	system
+QOwnNotes	org.qownnotes.QOwnNotes	25.12.0	stable	system
+Zoom	us.zoom.Zoom	6.6.10.5815	stable	system
